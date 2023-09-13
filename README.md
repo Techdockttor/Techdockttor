@@ -1,5 +1,5 @@
  <img  alt="I Love Coding" width="100%" src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966"> 
-<h1 align="center">Hi 👋, I'm Princewill Elebhose</h1>
+<h1 align="center">Hi 👋, I'm NkeJesus Diogu</h1>
 <h3 align="center">I'm an Enterprise Applications Specialist | ALX SOFTWARE ENGINEERING STUDENT |Tech Enthusiast | Aspiring Full stack Engineer 👨‍💻</h3>
 <img  align="right" alt="I Love Coding" width="40B0" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 <p align="left"> <a href="https://twitter.com/u4ugo" target="blank"><img src="https://img.shields.io/twitter/follow/u4ugo?logo=twitter&style=for-the-badge" alt="prince_d_coder" /></a> </p>
