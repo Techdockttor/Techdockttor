@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wafarifki/wafarifki/main/frame.png" style="width:100%;">
+<img src="https://raw.githubusercontent.com///main/frame.png" style="width:100%;">
 <h1 align="center">Hi 👋, I'm NkeJesus Diogu</h1>
 <h3 align="center">I'm an IT Support Specialist | Tech Enthusiast | Aspiring Full stack Engineer 👨‍💻</h3>
 <img  align="right" alt="I Love Coding" width="40B0" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
