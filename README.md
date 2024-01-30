@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NkeJesus Diogu</h1>
-<h3 align="center">I'm an IT Support Specialist | Tech Enthusiast | Aspiring Full stack Engineer 👨‍💻</h3>
+<h3 align="center">I'm an Enterprise Applications Specialist |Fintech | Software Engineer 👨‍💻</h3>
 
 - 🌱 I’m currently an **Enterprise Application Specialist** @ **Tenece Professional Services**
 
