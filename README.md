@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NkeJesus Diogu</h1>
 <h3 align="center"> Enterprise Applications Specialist | Fintech | Software Engineer 👨‍💻</h3>
 
-- 🌱 I’m currently a **Flexcube Specialist** @ **Tenece Professional Services**
+- 🌱 I’m currently a **Flexcube Specialist** @ **Arravo.co**
 
 - 📫 How to reach me **Diogu.ugochukwu@gmail.com**
 
